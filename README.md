@@ -3,6 +3,11 @@
 직관적인 웹 인터페이스를 통해 AI 모델을 손쉽게 파인튜닝할 수 있는 React 기반 웹 애플리케이션입니다.
 
 ## 🚀 주요 기능
+![tunny-demo1.JPG](frontend/public/demo/tunny-demo1.JPG)
+![tunny-demo2.JPG](frontend/public/demo/tunny-demo2.JPG)
+![tunny-demo3.JPG](frontend/public/demo/tunny-demo3.JPG)
+![tunny-demo4.JPG](frontend/public/demo/tunny-demo4.JPG)
+![tunny-demo5.JPG](frontend/public/demo/tunny-demo5.JPG)
 
 ### 1단계: 모델 선택
 - **사전 훈련된 모델 선택**: GPT-2, BERT, DistilBERT 등
@@ -68,19 +73,6 @@ yarn start
 ### 4. 브라우저에서 확인
 ```
 http://127.0.0.1:3000
-```
-
-## 📁 프로젝트 구조
-
-```
-src/
-├── components/
-│   └── FineTuningWebApp.jsx    # 메인 컴포넌트
-├── styles/
-│   └── globals.css             # 전역 스타일
-├── utils/
-│   └── fileProcessing.js       # 파일 처리 유틸리티
-└── App.js                      # 앱 진입점
 ```
 
 ## 📊 지원하는 데이터 형식
